@@ -33,20 +33,13 @@ PROCEDURE:
 2.   Switch on the main supply. Observe the transformer secondary voltage waveform and output voltage waveform across the load resistor, simultaneously on the CRO screen. Note down       and calculate
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
-
-CIRCUIT DIAGRAMS
-
-Half wave rectifier with filter:
-
-Bridge rectifier with filter:
-
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
-
-WAVEFORM:
-
+<img width="1172" height="1600" alt="image" src="https://github.com/user-attachments/assets/9caea1a5-c428-42b8-8535-e3cf1fea6f47" />
+<img width="1185" height="1600" alt="image" src="https://github.com/user-attachments/assets/f776ae35-5b7e-47fc-af41-5d42b4da4159" />
+<img width="1187" height="1600" alt="image" src="https://github.com/user-attachments/assets/da2507fb-b3f9-4eff-bbcc-d48010d291e9" />
+<img width="1211" height="1600" alt="image" src="https://github.com/user-attachments/assets/e0b7f6fb-2e2a-4dbb-81c9-18018ce55578" />
+<img width="1161" height="1600" alt="image" src="https://github.com/user-attachments/assets/a3780ad3-10de-4885-89aa-c70857ad30e4" />
+<img width="940" height="664" alt="image" src="https://github.com/user-attachments/assets/50fc8468-6a8e-4c6b-b49a-2930d7e5052e" />
+<img width="1169" height="1600" alt="image" src="https://github.com/user-attachments/assets/e295350c-65c2-482d-81d7-c63fee6bcb0f" />
 
 RESULT:
 
